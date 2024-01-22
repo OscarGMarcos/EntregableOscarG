@@ -7,3 +7,6 @@ body{ background-color: #00665e;}
                 max-height: 100%;
                 margin: 0 auto; 
             }
+            ol{
+                max-width: 100%;
+            }
