@@ -10,3 +10,7 @@ body{ background-color: #00665e;}
             ol{
                 max-width: 100%;
             }
+            script{
+                max-width: 100px;
+                text-wrap: 90px;
+            }
